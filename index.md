@@ -24,20 +24,24 @@
 
 ## 主域名
 <br />
-*[最新主域名](https://acucloudc.ml)
+[最新主域名](https://acucloudc.ml)
 
 <br />
 <br />
 ## 备用域名
 <br />
-
+[备用域名①](https://acl.monster)
+<br />
+[备用域名②](https://acucloud.world)
 
 <br />
 <br />
 
 ## 跳转最新域名
 <br />
-
+[跳转域名①](https://socloudo.ml)
+<br />
+[跳转域名②](https://acucloudo.ml)
 
 <br />
 <br />
