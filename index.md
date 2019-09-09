@@ -46,8 +46,6 @@
 <br />
 <br />
 [跳转域名②](https://acucloudo.ml)
-<br />
-<br />
  
  ![Kio Logo](https://acucloud.github.io/99836.jpg)
  ```java
