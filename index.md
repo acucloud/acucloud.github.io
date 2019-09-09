@@ -37,7 +37,7 @@
 [备用域名②](https://acucloud.world)
 <br />
 <br />
-## 跳转最新域名
+## 最新跳转域名
 <br />
 <br />
 [跳转域名①](https://socloudo.ml)   
@@ -48,5 +48,5 @@
 <br />
  
  ```java
- Hello World
+ Hello World 
  ```
