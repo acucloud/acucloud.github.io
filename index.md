@@ -24,7 +24,7 @@
 
 ## 主域名
 
-[主网址](https://acucloudc.ml)
+[最新主域名](https://acucloudc.ml)
 
 <br />
 <br />
