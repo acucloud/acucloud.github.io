@@ -17,7 +17,7 @@
 </head>
 <body>
 <center>
-<img class="image2" src="https://acucloudc.ml/images/ssrlogo.jpg"/> 
+<img class="image2" src="/ssrlogo.jpg"/> 
 </center>
 </body>
 </html>
