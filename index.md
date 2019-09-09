@@ -1,1 +1,1 @@
-<center><img src="https://acucloudc.ml/images/ssrlogo.jpg"/></center>
+<center><img src="https://acucloudc.ml/images/ssrlogo.jpg" width=256 height=256 /></center>
