@@ -27,7 +27,7 @@
 ## 主域名
 <br />
 <br />
-[最新主域名](https://acucloudc.ml)
+[最新主域名](https://acl.monster)
 <br />
 <br />
 ## 备用域名
