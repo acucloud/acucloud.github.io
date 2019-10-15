@@ -39,6 +39,7 @@
 [备用域名②](https://acucloud.world)
 <br />
 <br />
+[备用域名③](https://acucloud.tech)
 ## 最新跳转域名
 <br />
 <br />
