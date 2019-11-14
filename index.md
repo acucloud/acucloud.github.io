@@ -27,13 +27,13 @@
 ## 主域名
 <br />
 <br />
-[最新主域名](https://acl.monster)
+[最新主域名](https://acm.monster)
 <br />
 <br />
 ## 备用域名
 <br />
 <br />
-[备用域名①](https://acl.monster)
+[备用域名①](https://acm.monster)
 <br />
 <br />
 [备用域名②](https://acucloud.world)
