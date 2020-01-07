@@ -27,13 +27,13 @@
 ## 主域名
 <br />
 <br />
-[最新主域名](https://acn.monster)
+[最新主域名](https://aco.monster)
 <br />
 <br />
 ## 备用域名
 <br />
 <br />
-[备用域名①](https://acn.monster)
+[备用域名①](https://aco.monster)
 <br />
 <br />
 [备用域名②](https://acucloud.world)
