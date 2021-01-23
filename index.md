@@ -23,7 +23,7 @@
 </center>
 </body>
 </html>
-<font color="#FF0000">近期最后更新域名时间：2021年 - 1月 - 24 日</font>
+<center><font color="#FF0000">近期最后更新域名时间：2021年 - 1月 - 24 日</font><center/>
 
 
 ## 主域名 
