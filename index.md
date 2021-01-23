@@ -24,34 +24,27 @@
 </body>
 </html>
 
+<font color="#FF0000">近期更新域名时间：2021年 - 1月 - 24 日</font>
+
 ## 主域名
 <br />
 <br />
-[最新主域名](https://aom.monster)
+[最新主域名](https://aos.monster)
 <br />
 <br />
 ## 备用域名
 <br />
 <br />
-[备用域名①](https://aco.monster)
-<br />
-<br />
-[备用域名②](https://acucloud.world)
-<br />
-<br />
-[备用域名③](https://acucloud.tech)
-<br />
-<br />
-[备用域名④](https://acuc.tech)
+[备用域名①](https://aos.monster)
 <br />
 <br />
 ## 最新跳转域名
 <br />
 <br />
-[跳转域名①](https://socloudo.ml)   
+[跳转域名①](https://sogo.ws)   
 <br />
 <br />
-[跳转域名②](https://acucloudo.ml)
+[跳转域名②](https://soclouco.ml)
  
  ![Kio Logo](https://acucloud.github.io/99836.jpg)
  ```java
