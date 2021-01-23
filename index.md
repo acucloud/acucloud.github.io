@@ -29,7 +29,7 @@
 ## 主域名
 <br />
 <br />
-[最新主域名](https://aos.monster) <center><font color="#3D9F49">有效</font><center/>
+<center><font color="#3D9F49">有效</font><center/> [最新主域名](https://aos.monster) 
 <br />
 <br />
 ## 备用域名
