@@ -20,11 +20,18 @@
 <body>
 <center>
 <img class="image2" src="/ssrlogo.jpg"/> 
-<font color="#FF0000">近期最后更新域名时间：2021年 - 1月 - 24 日</font>
 </center>
 </body>
 </html>
 
+<html>
+<head>
+</head>
+<center>
+<font color="#FF0000">近期最后更新域名时间：2021年 - 1月 - 24 日</font>
+</center>
+</body>
+</html>
 
 ## 主域名 
 <br />
