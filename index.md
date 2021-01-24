@@ -41,7 +41,13 @@
 ## 备用域名
 <br />
 <br />
-[备用域名①](https://aos.monster)
+[备用域名1](https://aos.monster)
+<br />
+<br />
+[长期备用域名2](https://aoot.ml/)
+<br />
+<br />
+[长期备用域名3](https://aoot.ga/)
 <br />
 <br />
 ## 最新跳转域名
