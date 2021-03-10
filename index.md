@@ -28,20 +28,20 @@
 <head>
 </head>
 <center>
-<font color="#FF0000">近期最后更新域名时间：2021年 - 1月 - 24 日</font>
+<font color="#FF0000">近期最后更新域名时间：2021年 - 3月 - 11 日</font>
 </center>
 </html>
 
 ## 主域名 
 <br />
 <br />
-[最新主域名](https://aos.monster) 
+[最新主域名](https://aoot.ml/) 
 <br />
 <br />
 ## 备用域名
 <br />
 <br />
-[备用域名1](https://aos.monster)
+[备用域名1](https://cooy.xyz)
 <br />
 <br />
 [长期备用域名2](https://aoot.ml/)
