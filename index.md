@@ -35,16 +35,16 @@
 ## 主域名 
 <br />
 <br />
-[最新主域名](https://aoot.ml/) 
+[最新主域名](https://aooy.xyz/) 
 <br />
 <br />
 ## 备用域名
 <br />
 <br />
-[备用域名1](https://cooy.xyz)
+[备用域名1](https://aooy.xyz/)
 <br />
 <br />
-[长期备用域名2](https://aoot.ml/)
+[长期备用域名2](https://aooy.xyz/)
 <br />
 <br />
 [长期备用域名3](https://aoot.ga/)
@@ -56,7 +56,7 @@
 [跳转域名①](https://sogo.ws)   
 <br />
 <br />
-[跳转域名②](https://soclouco.ml)
+[跳转域名②](https://aooy.xyz/)
  
  ![Kio Logo](https://acucloud.github.io/99836.jpg)
  ```java
